@@ -84,7 +84,7 @@ class Graph(object):
                     parent[v] = u
 
     def dijkstra(self, s):        
-        visited, distance, parent = {}, {}, {}
+        visited, distance = {}, {}
         for v in self.V:
             visited[v] = 0
             distance[v] = sys.maxsize
