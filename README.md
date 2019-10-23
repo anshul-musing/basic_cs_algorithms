@@ -46,7 +46,8 @@ Python implementation of basic computer science algorithms for the following dat
      
 ## Max heap
 * The heap class takes a balanced binary tree as an input and converts it into a max heap
-* We test 
+* We test
+     * creating a balanced tree from an unsorted array
      * building a max heap
      * heapify operation
 * Each node of the max heap is an object of the Node class, which has a value and the left and the right links
