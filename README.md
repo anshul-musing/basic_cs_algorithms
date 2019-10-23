@@ -49,7 +49,6 @@ Python implementation of basic computer science algorithms for the following dat
 * We test 
      * building a max heap
      * heapify operation
-     * level-order walk
 * Each node of the max heap is an object of the Node class, which has a value and the left and the right links
 
 ## Trie tree
